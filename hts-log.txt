@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 29 Apr 2024 20:18:48 at https://launcherleaks.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://launcherleaks.net/ -O1 "C:\My Web Sites\ll" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:20:25	Error: 	"Forbidden" (403) at link https://launcherleaks.net/clients/purchases/ (from https://launcherleaks.net/)
+20:20:25	Error: 	"Forbidden" (403) at link https://launcherleaks.net/support/ (from https://launcherleaks.net/)
+20:22:50	Warning: 	Moved Permanently for https://launcherleaks.net/file/1826-custom-dojrp-based-eup-pack/?do=buy&csrfKey=ac8755a0fb39314ae8cf8c76df7bf263
+20:22:50	Warning: 	File has moved from https://launcherleaks.net/file/1826-custom-dojrp-based-eup-pack/?do=buy&csrfKey=ac8755a0fb39314ae8cf8c76df7bf263 to https://launcherleaks.net/store/product/14-custom-dojrp-based-eup-pack/
+20:24:20	Error: 	"Not Found" (404) at link https://media.discordapp.net/attachments/725964880460644383/1233221852550402158/Screenshot_2024-03-28_010732.png?ex=662c4ed9&is=662afd59&hm=8ebb58e64b1a7ccf40a2211c645755fe0df60f2c0b6fd4e1098b6633a87933a5&=&format=webp&quality=lossless&width=550&height=330 (from https://launcherleaks.net/)
+20:24:28	Error: 	"Not Found" (404) at link https://media.discordapp.net/attachments/1226323311634419793/1226366857767030875/g31234.png?ex=662bc263&is=662a70e3&hm=16f8c5d0b41ba8c7f508e0184f1a91839faefe6ba094449596627807008f35da&=&format=webp&quality=lossless&width=1596&height=897 (from https://launcherleaks.net/)
+20:24:34	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/725964880460644383/1233209923530133534/Screenshot_2024-03-05_021807.png?ex=662c43bd&is=662af23d&hm=7d195e1f2167208b2b6d82c12cb219d5b115624b52823e15c5a044e31493c01e& (from https://launcherleaks.net/)
+20:24:43	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/1225192878440058911/1231594125636141066/Desktop_Screenshot_2023.11.09_-_20.15.23.79.png?ex=662b0029&is=6629aea9&hm=1d333d39ed9337b9e2e43390955e9b4557a47e3ae9c3093f3ed7451adc668b2e& (from https://launcherleaks.net/)
